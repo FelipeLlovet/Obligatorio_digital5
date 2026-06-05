@@ -152,7 +152,7 @@ nav a {
 }
 
 #imagenes article {
-    min-height: 25vh;
+    min-height: 30vh;
     width: 100%;
 }
 
@@ -171,12 +171,13 @@ nav a {
     text-align: center;
     background-color: rgb(31, 124, 19);
     max-width: 80%;
+    align-content: center;
 }
 
 #comunicado h2 {
     margin: auto;
     max-width: 80%;
-    margin-bottom: 80px;
+    margin-bottom: 20px;
 }
 
 #invisible {
@@ -248,6 +249,7 @@ nav a {
 .boton {
     background-color: rgb(255, 255, 255);
     margin-top: 5px;
+    margin-bottom: 90px;
     font-weight: bold;
     padding: 8px;
     border-radius: 20px;
